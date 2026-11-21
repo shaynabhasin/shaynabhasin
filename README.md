@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I am Shayna Bhasin!
 ## About Me
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2026–30)
+- B.Tech CSE Student , Gurugram (Batch 2026–30)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in:  Full-Stack Development 
 ## Technical Skills
@@ -16,5 +16,5 @@ Git workflows, API interaction, and Markdown documentation
 ## Currently Working On
 - Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
-- Email : 2601010291@krmu.edu
-- linkden: https://www.linkedin.com/in/shayna-bhasin -a81893431
+
+
