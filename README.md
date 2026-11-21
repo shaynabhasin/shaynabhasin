@@ -17,3 +17,4 @@ Git workflows, API interaction, and Markdown documentation
 - Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
 - Email : 2601010291@krmu.edu
+- linkden: https://www.linkedin.com/in/shayna-bhasin -a81893431
